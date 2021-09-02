@@ -1,0 +1,22 @@
+{
+  "name": "UIViewLayout",
+  "version": "0.1.0",
+  "summary": "A short description of UIViewLayout.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wangxiangzhao/",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wangxiangzhao": "13269532539@163.com"
+  },
+  "source": {
+    "git": "https://github.com/wangxiangzhao/UIViewLayout.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "UIViewLayout/Classes/**/*"
+}

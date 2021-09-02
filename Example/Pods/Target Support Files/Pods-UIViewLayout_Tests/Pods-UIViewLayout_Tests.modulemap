@@ -1,0 +1,6 @@
+framework module Pods_UIViewLayout_Tests {
+  umbrella header "Pods-UIViewLayout_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module UIViewLayout {
+  umbrella header "UIViewLayout-umbrella.h"
+
+  export *
+  module * { export * }
+}

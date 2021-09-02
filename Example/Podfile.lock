@@ -1,0 +1,16 @@
+PODS:
+  - UIViewLayout (0.1.0)
+
+DEPENDENCIES:
+  - UIViewLayout (from `../`)
+
+EXTERNAL SOURCES:
+  UIViewLayout:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  UIViewLayout: eaa0ad9a00c5aa778158fb99e627ca6faeb0bfbe
+
+PODFILE CHECKSUM: 71536bcb34a4aa91ec5676e79882289f463f7168
+
+COCOAPODS: 1.10.1
